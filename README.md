@@ -25,7 +25,7 @@ The JavaFX Grocery Store Inventory Management project is a desktop application d
 ![AddSRUml](https://github.com/3odeh/Grocery-Store-Inventory/assets/111912140/82ed9de7-ccf6-47c4-9bb2-d30cf49d2820)
 ![DelUpUml](https://github.com/3odeh/Grocery-Store-Inventory/assets/111912140/07805bc9-dcaa-4075-be84-1a20f2321ee4)
 
-1. Clone the repository:
+- Clone the repository:
 
    ```shell
    git clone https://github.com/3odeh/Grocery-Store-Inventory.git
